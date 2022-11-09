@@ -32,3 +32,5 @@ for _ in range(T):
 
 # 출력하는 부분
 print(*sol, sep = '\n')
+
+# https://drive.google.com/open?id=1iiWjf-PKBq_nfD9lqKtuyU4bqEbUaq_5
